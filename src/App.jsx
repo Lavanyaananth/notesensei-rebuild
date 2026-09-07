@@ -1,7 +1,9 @@
+import NotesPage from "./pages/NotesPage";
+
 function App() {
   return (
     <>
-      <p className="font-bold"> Notesensei </p>
+      <NotesPage></NotesPage>
     </>
   );
 }

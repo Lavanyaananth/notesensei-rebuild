@@ -17,7 +17,7 @@ The goal of this project is to build the application while understanding the arc
 
 - [x] React + Vite setup
 - [x] Tailwind CSS setup
-- [ ] Application layout
+- [x] Application layout
 - [ ] Create note
 - [ ] Edit note
 - [ ] Delete note
