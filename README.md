@@ -31,12 +31,28 @@ The goal of this project is to build the application while understanding the arc
 
 ```text
 src/
+├── app/
 ├── components/
+├── fearures/
+├── hooks/
 ├── pages/
 ├── App.jsx
 ├── main.jsx
 └── index.css
 ```
+
+## Redux checklist
+
+- [ ] Install @reduxjs/toolkit
+- [ ] Install react-redux
+- [ ] Create src/app/store.js
+- [ ] Create src/features/notes/notesSlice.js
+- [ ] Create initialState
+- [ ] Create the slice
+- [ ] Export the reducer
+- [ ] Configure the store
+- [ ] Add <Provider> in main.jsx
+- [ ] Run the app and make sure that nothing broke
 
 ## Getting Started
 
